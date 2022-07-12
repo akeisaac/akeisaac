@@ -1,7 +1,7 @@
  Hi there, I'm Isaac Ake   👋 
 
 ![](../../Downloads/think-smart.gif)
-## I'm a Student, Scientist, Developer, and  Per time Teacher!!
+
 ![think-smart](https://user-images.githubusercontent.com/92088172/178568804-fbf6ccf6-f3cb-4bc2-bb9f-bc22cd91df8e.gif)
 
 
